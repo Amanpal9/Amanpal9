@@ -6,6 +6,10 @@
 
 </div>
 
+<p align="center">
+  <img src="./assets/arcane-tech-portal.png" width="100%" alt="3D arcane technology portal with visual motifs for C++, Python, data analysis, SQL, computer vision, algorithms, and Git" />
+</p>
+
 <br />
 
 > **C++ developer** with a love for data, algorithms, and building practical tools.  
@@ -75,6 +79,6 @@ Computer-vision experiments   ·  Clean C++ solutions            ·  Useful web 
 
 <br />
 
-<sub>Design language: a tech-forward, mystical-portal homage—an unofficial fan-inspired visual theme with no affiliation.</sub>
+<sub>Design language: a tech-forward, 3D mystical-portal visual system with an animated type banner—an unofficial fan-inspired design with no affiliation.</sub>
 
 </div>
