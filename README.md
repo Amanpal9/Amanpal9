@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aman%20Pal&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=F7F1D5&color=0:090A1A,45:2B0A3D,100:CC7A00&animation=fadeIn&desc=C%2B%2B%20Developer%20%7C%20Data%20Explorer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60&descSize=18" alt="Aman Pal — C++ Developer, Data Explorer, Problem Solver" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Amanpal9&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=F7F1D5&color=0:090A1A,45:2B0A3D,100:CC7A00&animation=fadeIn&desc=C%2B%2B%20Developer%20%7C%20Data%20Explorer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60&descSize=18" alt="Amanpal9 — C++ Developer, Data Explorer, Problem Solver" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F6C453&center=true&vCenter=true&width=660&lines=Turning+logic+into+clean%2C+useful+software.;Exploring+data%2C+algorithms%2C+and+computer+vision.;Welcome+to+the+arcane+side+of+engineering." alt="Typing SVG" /></a>
 
