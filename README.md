@@ -15,10 +15,10 @@
 </p>
 
 <p>
-  <a href="https://tenor.com/view/doctor-strange-portal-doctor-strange-portal-gif-6847190155362068597"><img src="https://media1.tenor.com/m/XwYbKxfoaHUAAAAC/doctor-strange-portal.gif" width="498" alt="Animated orange portal from a Doctor Strange scene, shared via Tenor" /></a>
+  <img src="./assets/arcane-ring-loop.gif" width="148" alt="Original looping amber arcane ring animation" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/ember-portal-loop.gif" width="148" alt="Original looping orange portal ring animation" />
 </p>
-
-<sub>Portal clip shared via <a href="https://tenor.com/view/doctor-strange-portal-doctor-strange-portal-gif-6847190155362068597">Tenor</a>.</sub>
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<a href="https://tenor.com/view/dr-strange-doctor-strange-magic-shield-gif-11657591296076633862"><img src="https://media1.tenor.com/m/ocgVhOtVVwYAAAAC/dr-strange-doctor-strange.gif" width="280" alt="Doctor Strange surrounded by orange spellfire, shared via Tenor" /></a>
+<img src="./assets/arcane-ring-loop.gif" width="116" alt="Standalone animated amber spell ring" />
 
 </div>
 
@@ -75,6 +75,12 @@ I like moving from raw data and vague requirements to decisions that are visible
 <div align="center">
 
 ![Arcane gold divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:4B1B16,45:F6B84C,100:9C4A1A)
+
+</div>
+
+<div align="center">
+
+<img src="./assets/ember-portal-loop.gif" width="116" alt="Standalone animated portal ring" />
 
 </div>
 
@@ -102,7 +108,7 @@ I like moving from raw data and vague requirements to decisions that are visible
 
 <div align="center">
 
-<a href="https://tenor.com/view/dr-strange-doctor-strange-magic-shield-gif-11657591296076633862"><img src="https://media1.tenor.com/m/ocgVhOtVVwYAAAAC/dr-strange-doctor-strange.gif" width="220" alt="Looping orange sorcery effect, shared via Tenor" /></a>
+<img src="./assets/arcane-ring-loop.gif" width="104" alt="Standalone animated arcane ring" />
 
 </div>
 
@@ -124,6 +130,6 @@ Always open to learning, collaboration, and interesting problems.
 
 [![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-4B1B16?style=for-the-badge&logo=github&logoColor=F6B84C)](https://github.com/Amanpal9?tab=repositories)
 
-<sub>Original portal-tech artwork with fan-inspired sorcerer styling; not affiliated with Marvel. Portal and spell GIFs are linked from their creators on Tenor.</sub>
+<sub>Original portal-tech artwork with fan-inspired sorcerer styling; not affiliated with Marvel. The animated rings are original visuals created for this profile.</sub>
 
 </div>
