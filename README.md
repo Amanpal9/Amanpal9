@@ -1,145 +1,96 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/account-panels/01-sanctum-mobile-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/account-panels/01-sanctum-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/account-panels/01-sanctum-still.svg">
+  <img src="assets/account-panels/01-sanctum.svg" width="1280" alt="Amanpal9. The Developer Sanctum. C++ developer, data explorer, and problem solver. Supplied Doctor Strange artwork with rotating spell circles and moving sparks.">
+</picture>
 
-<img src="./assets/arcane-casefile-hero.png" width="100%" alt="A sorcerer-inspired engineer's desk with C++, Python, data, and glowing portal motifs" />
+<p align="center"><a href="#the-builder">The builder</a> · <a href="#the-spellbook">The spellbook</a> · <a href="#project-portals">Project portals</a> · <a href="#public-work">Public work</a> · <a href="#open-a-portal">Connect</a></p>
 
-<h1>AMANPAL9 · THE ARCANE ENGINEER</h1>
+<a id="the-builder"></a>
 
-<p><b>C++ DEVELOPER · DATA EXPLORER · PROBLEM SOLVER</b><br />Turning complex questions into clear, useful systems.</p>
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/account-panels/02-builder-mobile-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/account-panels/02-builder-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/account-panels/02-builder-still.svg">
+  <img src="assets/account-panels/02-builder.svg" width="1280" alt="Amanpal9: exploring data, building practical tools, and sharpening problem-solving skills.">
+</picture>
 
-<p>
-  <a href="#-the-dossier">THE DOSSIER</a> &nbsp;✦&nbsp;
-  <a href="#-current-spellwork">CURRENT SPELLWORK</a> &nbsp;✦&nbsp;
-  <a href="#-case-files">CASE FILES</a> &nbsp;✦&nbsp;
-  <a href="#-arcane-toolkit">ARCANE TOOLKIT</a> &nbsp;✦&nbsp;
-  <a href="#-practice-ledger">PRACTICE LEDGER</a>
-</p>
+<a id="the-spellbook"></a>
 
-<img src="./assets/arcane-ring-loop.gif" width="180" alt="Animated amber spell ring rotating in a loop" />
-&nbsp;&nbsp;&nbsp;
-<img src="./assets/ember-portal-loop.gif" width="180" alt="Animated ember portal ring pulsing in a loop" />
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/account-panels/03-spellbook-mobile-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/account-panels/03-spellbook-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/account-panels/03-spellbook-still.svg">
+  <img src="assets/account-panels/03-spellbook.svg" width="1280" alt="Skills and interests: C++, Python, SQL, DSA, HTML, CSS, JavaScript, Pandas, NumPy, Matplotlib, Seaborn, web scraping, Tableau, Node.js, Express, MongoDB, PHP, Git, GitHub, and Jupyter.">
+</picture>
 
-</div>
+<a id="project-portals"></a>
 
-<div align="center">
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/account-panels/04-portals-mobile-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/account-panels/04-portals-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/account-panels/04-portals-still.svg">
+  <img src="assets/account-panels/04-portals.svg" width="1280" alt="Public project portals: repository scraping, an expense-sharing dashboard, and a community-platform fork.">
+</picture>
 
-![Arcane energy divider](https://capsule-render.vercel.app/api?type=rect&height=5&color=0:4B1B16,45:F6B84C,100:9C4A1A)
+<a href="https://github.com/Amanpal9/github-webscraping-projeect">
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/account-panels/05-github-webscraping-projeect-mobile-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/account-panels/05-github-webscraping-projeect-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/account-panels/05-github-webscraping-projeect-still.svg">
+  <img src="assets/account-panels/05-github-webscraping-projeect.svg" width="1280" alt="GitHub Repository Scraper: Turn repository topics into useful data. A Python notebook for collecting GitHub topic pages, parsing repository information, and exporting CSV files. Stack: Python, BeautifulSoup, Pandas.">
+</picture>
+</a>
 
-</div>
+<a href="https://github.com/Amanpal9/Ai-us-stocks-analysis">
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/account-panels/05-Ai-us-stocks-analysis-mobile-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/account-panels/05-Ai-us-stocks-analysis-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/account-panels/05-Ai-us-stocks-analysis-still.svg">
+  <img src="assets/account-panels/05-Ai-us-stocks-analysis.svg" width="1280" alt="Expense Sharing Dashboard: Bring shared expenses into one view. An expense-sharing interface with a PHP API and SQL schema. Repository name: Ai-us-stocks-analysis. Stack: JavaScript, PHP, SQL.">
+</picture>
+</a>
 
-## ✦ The dossier
+<a href="https://github.com/Amanpal9/Community-X">
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/account-panels/05-Community-X-mobile-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/account-panels/05-Community-X-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/account-panels/05-Community-X-still.svg">
+  <img src="assets/account-panels/05-Community-X.svg" width="1280" alt="Community-X: Explore how a community platform fits together. A fork of HarshitPatel-01/Community-X for a student network. Node.js, Express, MongoDB, EJS, and Socket.IO. Stack: Node.js, Express, Fork.">
+</picture>
+</a>
 
-> I’m a **C++ developer** who enjoys algorithms, data analysis, and building practical tools. I like finding the signal in a messy problem, then shaping it into something clear and useful.
->
-> **Working style:** learn deliberately · build carefully · test edge cases · keep it useful.
+<a id="public-work"></a>
 
-<div align="center">
+<a href="https://github.com/Amanpal9?tab=repositories">
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/account-panels/06-public-work-mobile-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/account-panels/06-public-work-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/account-panels/06-public-work-still.svg">
+  <img src="assets/account-panels/06-public-work.svg" width="1280" alt="Public work: explore Amanpal9 notebooks, web tools, and community-platform fork. A glowing animated magic shield with rotating rings and sparks.">
+</picture>
+</a>
 
-<img src="./assets/arcane-ring-loop.gif" width="120" alt="Separate animated arcane ring between profile sections" />
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/account-panels/06-practice-mobile-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/account-panels/06-practice-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/account-panels/06-practice-still.svg">
+  <img src="assets/account-panels/06-practice.svg" width="1280" alt="Practice ledger: C++ and data structures, problem-solving, and learning through practical tools. A glowing animated magic shield.">
+</picture>
 
-</div>
+<a id="open-a-portal"></a>
 
-## ◈ Current spellwork
-
-| Sanctum focus | What I’m working with |
-| :--- | :--- |
-| **Foundations** | C++ · DSA · Python · SQL / MySQL |
-| **Build** | Data analysis · visualizations · web scraping · dashboards |
-| **Explore** | Computer vision · basic machine learning |
-| **Practice** | LeetCode · **100 solved** &nbsp; ✦ &nbsp; Codeforces · **rating 900** |
-
-<div align="center">
-
-![Arcane energy divider](https://capsule-render.vercel.app/api?type=rect&height=5&color=0:9C4A1A,50:F6B84C,100:4B1B16)
-
-</div>
-
-## 🌀 Case files
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>CASE FILE 01 · PATTERN RECOGNITION</b><br /><br />
-      <b>US Accident Data Analysis</b><br />Exploring accident data to uncover patterns and communicate findings through analysis and visualization.
-    </td>
-    <td width="50%" valign="top">
-      <b>CASE FILE 02 · SURVIVAL ANALYSIS</b><br /><br />
-      <b>Titanic / Passenger Survival Analysis</b><br />Cleaning and exploring passenger data to study survival outcomes and meaningful trends.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>CASE FILE 03 · REPOSITORY INTELLIGENCE</b><br /><br />
-      <a href="https://github.com/Amanpal9/github-webscraping-projeect"><b>GitHub Repository Scraper &amp; Analysis</b></a><br />Collecting and analyzing repository information with web scraping.
-    </td>
-    <td width="50%" valign="top">
-      <b>CASE FILE 04 · MARKET SIGNALS</b><br /><br />
-      <a href="https://github.com/Amanpal9/Ai-us-stocks-analysis"><b>Real-Time Stock Analysis Dashboard</b></a><br />A dashboard project for exploring stock data and market movement.
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Amanpal9">
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/account-panels/07-contact-mobile-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/account-panels/07-contact-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/account-panels/07-contact-still.svg">
+  <img src="assets/account-panels/07-contact.svg" width="1280" alt="Connect with Amanpal9. Explore my work and start a conversation. Supplied Doctor Strange Sanctum-window artwork.">
+</picture>
+</a>
 
 <details>
-<summary><b>Field notes · How I approach a problem</b></summary>
-<br />
+<summary>Read the profile as text</summary><h2>Amanpal9 / The Developer Sanctum</h2><p>I enjoy C++, algorithms, data exploration, and building practical tools.</p><p>Skills and interests carried forward from my existing profile: C++, DSA, Python, SQL/MySQL, Pandas, NumPy, Matplotlib, Seaborn, Tableau, web scraping, and Git/GitHub. Public project code also includes JavaScript, PHP, Node.js, Express, EJS, MongoDB, and Socket.IO.</p><h3>Public projects</h3><ul><li><a href="https://github.com/Amanpal9/github-webscraping-projeect">GitHub Repository Scraper</a> — A Python notebook for collecting GitHub topic pages, parsing repository information, and exporting CSV files.</li><li><a href="https://github.com/Amanpal9/Ai-us-stocks-analysis">Expense Sharing Dashboard</a> — An expense-sharing interface with a PHP API and SQL schema. Repository name: Ai-us-stocks-analysis.</li><li><a href="https://github.com/Amanpal9/Community-X">Community-X</a> — A fork of HarshitPatel-01/Community-X for a student network. Node.js, Express, MongoDB, EJS, and Socket.IO.</li></ul><p>Community-X is a fork of <a href="https://github.com/HarshitPatel-01/Community-X">HarshitPatel-01/Community-X</a>. Its inclusion describes a repository I explore; it does not claim original authorship of the upstream platform.</p></details>
 
-I enjoy moving from raw data or an unclear requirement to a result that is understandable and useful—whether that means a C++ solution, an analytical notebook, or a small dashboard.
-
-</details>
-
-<div align="center">
-
-<img src="./assets/ember-portal-loop.gif" width="132" alt="Separate animated ember portal between case files and toolkit" />
-
-</div>
-
-## ⌘ Arcane toolkit
-
-<p><b>Languages · foundations · workflow</b></p>
-
-![C++](https://img.shields.io/badge/C%2B%2B-Systems%20%26%20DSA-9C4A1A?style=for-the-badge&logo=cplusplus&logoColor=F6B84C)
-![Python](https://img.shields.io/badge/Python-Analysis%20%26%20Tools-4B1B16?style=for-the-badge&logo=python&logoColor=F6B84C)
-![HTML](https://img.shields.io/badge/HTML-Structure-9C4A1A?style=for-the-badge&logo=html5&logoColor=F6B84C)
-![CSS](https://img.shields.io/badge/CSS-Styles-4B1B16?style=for-the-badge&logo=css3&logoColor=F6B84C)
-![SQL and MySQL](https://img.shields.io/badge/SQL%20%2F%20MySQL-Data-9C4A1A?style=for-the-badge&logo=mysql&logoColor=F6B84C)
-![Git and GitHub](https://img.shields.io/badge/Git%20%2F%20GitHub-Workflow-4B1B16?style=for-the-badge&logo=github&logoColor=F6B84C)
-
-<p><b>Data · vision · analysis</b></p>
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20wrangling-9C4A1A?style=for-the-badge&logo=pandas&logoColor=F6B84C)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20work-4B1B16?style=for-the-badge&logo=numpy&logoColor=F6B84C)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-9C4A1A?style=for-the-badge&logo=plotly&logoColor=F6B84C)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20plots-4B1B16?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-9C4A1A?style=for-the-badge&logo=tableau&logoColor=F6B84C)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Image%20analysis-4B1B16?style=for-the-badge)
-![Basic Machine Learning](https://img.shields.io/badge/Basic%20ML-Foundations-9C4A1A?style=for-the-badge)
-![Web scraping](https://img.shields.io/badge/Web%20Scraping-Data%20collection-4B1B16?style=for-the-badge)
-
-<div align="center">
-
-![Arcane energy divider](https://capsule-render.vercel.app/api?type=rect&height=5&color=0:4B1B16,45:F6B84C,100:9C4A1A)
-
-</div>
-
-## 🧿 Practice ledger
-
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-100%20solved-F6B84C?style=for-the-badge&logo=leetcode&logoColor=17120D)
-&nbsp;
-![Codeforces](https://img.shields.io/badge/Codeforces-rating%20900-9C4A1A?style=for-the-badge&logo=codeforces&logoColor=F6B84C)
-
-<img src="./assets/arcane-ring-loop.gif" width="116" alt="Animated amber ring under coding practice stats" />
-
-</div>
-
-## ✧ Open the portal
-
-Always open to learning, collaboration, and interesting problems.
-
-<div align="center">
-
-[![Explore my repositories](https://img.shields.io/badge/Explore%20my%20repositories-4B1B16?style=for-the-badge&logo=github&logoColor=F6B84C)](https://github.com/Amanpal9?tab=repositories)
-
-<sub>Original sorcerer-inspired artwork and animations created for this profile. Doctor Strange is a Marvel character; this profile is fan-inspired and is not affiliated with Marvel.</sub>
-
-</div>
+<p align="center"><sub>Doctor Strange inspired · User-supplied artwork · Independent personal profile · <a href="ASSET-CREDITS.md">Artwork and source notes</a></sub></p>

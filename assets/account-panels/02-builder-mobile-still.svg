@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="500" viewBox="0 0 640 500" role="img" aria-label="02-builder-mobile"><title>02-builder-mobile</title>
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17151a" /><stop offset="1" stop-color="#100d13" /></linearGradient>
+ <linearGradient id="shade"><stop stop-color="#151219" /><stop offset="1" stop-color="#151219" stop-opacity="0" /></linearGradient>
+ <linearGradient id="sweep"><stop stop-color="#f79842" stop-opacity="0" /><stop offset=".5" stop-color="#f79842" stop-opacity=".5" /><stop offset="1" stop-color="#f79842" stop-opacity="0" /></linearGradient>
+ <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M0 0H48M0 0V48M0 48L48 0" stroke="#e9925c" stroke-width=".4" opacity=".055" /></pattern>
+ <filter id="filament-glow" x="-100%" y="-200%" width="300%" height="500%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="5" result="near" /><feGaussianBlur in="SourceGraphic" stdDeviation="13" result="far" /><feMerge><feMergeNode in="far" /><feMergeNode in="near" /></feMerge></filter>
+ <linearGradient id="filament-core" gradientUnits="userSpaceOnUse" x1="-310" y1="0" x2="160" y2="0"><stop stop-color="#ffbd5a" /><stop offset=".52" stop-color="#fff1bd" /><stop offset=".68" stop-color="#ffffee" /><stop offset="1" stop-color="#ffd17a" /></linearGradient>
+ <linearGradient id="filament-alpha" gradientUnits="userSpaceOnUse" x1="-320" y1="0" x2="170" y2="0"><stop stop-color="black" /><stop offset=".1" stop-color="white" /><stop offset=".88" stop-color="white" /><stop offset="1" stop-color="black" /></linearGradient>
+ <mask id="filament-fade" maskUnits="userSpaceOnUse" x="-360" y="-160" width="580" height="400"><rect x="-360" y="-160" width="580" height="400" fill="url(#filament-alpha)" /></mask>
+ <clipPath id="bounds"><rect width="640" height="500" /></clipPath></defs>
+ <g clip-path="url(#bounds)"><rect width="640" height="500" fill="url(#bg)" /><rect width="640" height="500" fill="url(#grid)" />
+ <g class="magic-background" opacity=".21" transform="translate(416.0 240.0) scale(1.3617021276595744 1.5151515151515151)"><g class="magic-filaments" transform="translate(0 0) scale(1)" fill="none" stroke-linecap="round" stroke-linejoin="round"><g mask="url(#filament-fade)"><path d="M-310.00 80.32 C-286.66 59.52 -259.08 64.97 -239.27 49.37 C-213.25 26.18 -182.49 83.47 -160.40 66.08 C-132.62 68.58 -99.77 -4.11 -76.20 -2.23 C-51.05 -5.21 -21.34 -5.04 0.00 -7.27 C23.64 -10.22 51.58 11.70 71.64 9.49 C100.47 -12.67 134.54 -35.46 159.00 -52.08" stroke="#ff8a25" stroke-width="8" opacity=".52" filter="url(#filament-glow)" /><path d="M-310.00 80.32 C-286.66 59.52 -259.08 64.97 -239.27 49.37 C-213.25 26.18 -182.49 83.47 -160.40 66.08 C-132.62 68.58 -99.77 -4.11 -76.20 -2.23 C-51.05 -5.21 -21.34 -5.04 0.00 -7.27 C23.64 -10.22 51.58 11.70 71.64 9.49 C100.47 -12.67 134.54 -35.46 159.00 -52.08" stroke="#ffcb77" stroke-width="2.2" opacity=".85" /><path d="M-310.00 80.32 C-286.66 59.52 -259.08 64.97 -239.27 49.37 C-213.25 26.18 -182.49 83.47 -160.40 66.08 C-132.62 68.58 -99.77 -4.11 -76.20 -2.23 C-51.05 -5.21 -21.34 -5.04 0.00 -7.27 C23.64 -10.22 51.58 11.70 71.64 9.49 C100.47 -12.67 134.54 -35.46 159.00 -52.08" stroke="url(#filament-core)" stroke-width="0.8" opacity=".95" /><path d="M-310.00 80.32 C-286.66 59.52 -259.08 64.97 -239.27 49.37 C-213.25 26.18 -182.49 83.47 -160.40 66.08 C-132.62 68.58 -99.77 -4.11 -76.20 -2.23 C-51.05 -5.21 -21.34 -5.04 0.00 -7.27 C23.64 -10.22 51.58 11.70 71.64 9.49 C100.47 -12.67 134.54 -35.46 159.00 -52.08" stroke="#fffbe9" stroke-width="2.4" stroke-dasharray="15 122" opacity=".92" /><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><path d="M-310.00 103.19 C-287.79 125.29 -261.54 60.72 -242.69 77.29 C-214.10 54.17 -180.31 103.64 -156.05 86.29 C-130.85 110.31 -101.06 9.91 -79.67 27.92 C-53.38 7.32 -22.31 14.53 0.00 -0.91 C24.21 24.47 52.81 -1.10 73.35 17.93 C101.62 34.68 135.02 -81.17 159.00 -68.60" stroke="#ff8a25" stroke-width="8" opacity=".52" filter="url(#filament-glow)" /><path d="M-310.00 103.19 C-287.79 125.29 -261.54 60.72 -242.69 77.29 C-214.10 54.17 -180.31 103.64 -156.05 86.29 C-130.85 110.31 -101.06 9.91 -79.67 27.92 C-53.38 7.32 -22.31 14.53 0.00 -0.91 C24.21 24.47 52.81 -1.10 73.35 17.93 C101.62 34.68 135.02 -81.17 159.00 -68.60" stroke="#ffcb77" stroke-width="2.45" opacity=".85" /><path d="M-310.00 103.19 C-287.79 125.29 -261.54 60.72 -242.69 77.29 C-214.10 54.17 -180.31 103.64 -156.05 86.29 C-130.85 110.31 -101.06 9.91 -79.67 27.92 C-53.38 7.32 -22.31 14.53 0.00 -0.91 C24.21 24.47 52.81 -1.10 73.35 17.93 C101.62 34.68 135.02 -81.17 159.00 -68.60" stroke="url(#filament-core)" stroke-width="0.9700000000000001" opacity=".95" /><path d="M-310.00 103.19 C-287.79 125.29 -261.54 60.72 -242.69 77.29 C-214.10 54.17 -180.31 103.64 -156.05 86.29 C-130.85 110.31 -101.06 9.91 -79.67 27.92 C-53.38 7.32 -22.31 14.53 0.00 -0.91 C24.21 24.47 52.81 -1.10 73.35 17.93 C101.62 34.68 135.02 -81.17 159.00 -68.60" stroke="#fffbe9" stroke-width="2.4" stroke-dasharray="15 122" opacity=".92" /><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><path d="M-310.00 100.57 C-284.28 82.70 -253.88 85.01 -232.05 71.60 C-208.55 51.39 -180.77 103.86 -160.83 88.70 C-132.95 78.74 -99.99 37.55 -76.34 30.08 C-51.15 11.92 -21.37 18.10 0.00 4.48 C27.14 -14.55 59.22 32.23 82.25 17.96 C107.58 17.97 137.51 -58.56 159.00 -58.55" stroke="#ff8a25" stroke-width="8" opacity=".52" filter="url(#filament-glow)" /><path d="M-310.00 100.57 C-284.28 82.70 -253.88 85.01 -232.05 71.60 C-208.55 51.39 -180.77 103.86 -160.83 88.70 C-132.95 78.74 -99.99 37.55 -76.34 30.08 C-51.15 11.92 -21.37 18.10 0.00 4.48 C27.14 -14.55 59.22 32.23 82.25 17.96 C107.58 17.97 137.51 -58.56 159.00 -58.55" stroke="#ffcb77" stroke-width="2.7" opacity=".85" /><path d="M-310.00 100.57 C-284.28 82.70 -253.88 85.01 -232.05 71.60 C-208.55 51.39 -180.77 103.86 -160.83 88.70 C-132.95 78.74 -99.99 37.55 -76.34 30.08 C-51.15 11.92 -21.37 18.10 0.00 4.48 C27.14 -14.55 59.22 32.23 82.25 17.96 C107.58 17.97 137.51 -58.56 159.00 -58.55" stroke="url(#filament-core)" stroke-width="1.1400000000000001" opacity=".95" /><path d="M-310.00 100.57 C-284.28 82.70 -253.88 85.01 -232.05 71.60 C-208.55 51.39 -180.77 103.86 -160.83 88.70 C-132.95 78.74 -99.99 37.55 -76.34 30.08 C-51.15 11.92 -21.37 18.10 0.00 4.48 C27.14 -14.55 59.22 32.23 82.25 17.96 C107.58 17.97 137.51 -58.56 159.00 -58.55" stroke="#fffbe9" stroke-width="2.4" stroke-dasharray="15 122" opacity=".92" /><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><path d="M-310.00 102.70 C-287.63 86.92 -261.20 85.41 -242.22 73.58 C-216.18 59.40 -185.41 88.39 -163.32 77.76 C-135.70 98.66 -103.07 38.12 -79.64 53.79 C-53.36 69.70 -22.30 -3.26 0.00 8.67 C25.81 31.32 56.30 7.35 78.20 24.34 C104.86 20.21 136.38 -36.92 159.00 -40.01" stroke="#ff8a25" stroke-width="8" opacity=".52" filter="url(#filament-glow)" /><path d="M-310.00 102.70 C-287.63 86.92 -261.20 85.41 -242.22 73.58 C-216.18 59.40 -185.41 88.39 -163.32 77.76 C-135.70 98.66 -103.07 38.12 -79.64 53.79 C-53.36 69.70 -22.30 -3.26 0.00 8.67 C25.81 31.32 56.30 7.35 78.20 24.34 C104.86 20.21 136.38 -36.92 159.00 -40.01" stroke="#ffcb77" stroke-width="2.95" opacity=".85" /><path d="M-310.00 102.70 C-287.63 86.92 -261.20 85.41 -242.22 73.58 C-216.18 59.40 -185.41 88.39 -163.32 77.76 C-135.70 98.66 -103.07 38.12 -79.64 53.79 C-53.36 69.70 -22.30 -3.26 0.00 8.67 C25.81 31.32 56.30 7.35 78.20 24.34 C104.86 20.21 136.38 -36.92 159.00 -40.01" stroke="url(#filament-core)" stroke-width="1.31" opacity=".95" /><path d="M-310.00 102.70 C-287.63 86.92 -261.20 85.41 -242.22 73.58 C-216.18 59.40 -185.41 88.39 -163.32 77.76 C-135.70 98.66 -103.07 38.12 -79.64 53.79 C-53.36 69.70 -22.30 -3.26 0.00 8.67 C25.81 31.32 56.30 7.35 78.20 24.34 C104.86 20.21 136.38 -36.92 159.00 -40.01" stroke="#fffbe9" stroke-width="2.4" stroke-dasharray="15 122" opacity=".92" /><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g><g><path d="M-7 0H1" stroke="#ffe9ac" stroke-width="1.4" />
+   <circle r="1.8" fill="#fff7dc" stroke="none" />
+   </g></g></g></g><text x="35" y="54" font-family="Consolas,monospace" font-size="18" font-weight="400" fill="#eea563">01 / THE BUILDER</text><text x="35" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="400" fill="#e6dfd0">The work speaks for itself.</text><text x="35" y="187" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="600" fill="#f7e7d1">Hey, I’m Amanpal9 — @Amanpal9.</text><text x="35" y="244" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#b8aaa4">I explore data, build practical tools, and the</text><text x="35" y="281" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#b8aaa4">backend systems that make them work.</text><rect x="35" y="350" width="570" height="107" fill="#110e14" stroke="#654638" /><text x="55" y="390" font-family="Consolas,monospace" font-size="25" font-weight="400" fill="#f7e7d1">$ python -m compileall .</text><text x="55" y="434" font-family="Consolas,monospace" font-size="25" font-weight="400" fill="#b8aaa4">$ npm run dev</text><path d="M127 343l2 -4" stroke="#ffba72" stroke-width="0.6" opacity=".3">
+  </path><path d="M429 151l2 -4" stroke="#ffba72" stroke-width="1.0" opacity=".3">
+  </path><path d="M182 77l2 -4" stroke="#ffba72" stroke-width="1.2" opacity=".3">
+  </path><path d="M83 360l2 -4" stroke="#ffba72" stroke-width="0.9" opacity=".3">
+  </path><path d="M210 469l2 -4" stroke="#ffba72" stroke-width="0.8" opacity=".3">
+  </path><path d="M458 296l2 -4" stroke="#ffba72" stroke-width="0.5" opacity=".3">
+  </path><path d="M119 417l2 -4" stroke="#ffba72" stroke-width="0.9" opacity=".3">
+  </path><path d="M445 167l2 -4" stroke="#ffba72" stroke-width="1.4" opacity=".3">
+  </path><path d="M24 479l2 -4" stroke="#ffba72" stroke-width="0.6" opacity=".3">
+  </path><path d="M597 216l2 -4" stroke="#ffba72" stroke-width="0.6" opacity=".3">
+  </path><path d="M42 227l2 -4" stroke="#ffba72" stroke-width="1.0" opacity=".3">
+  </path><path d="M620 210l2 -4" stroke="#ffba72" stroke-width="1.0" opacity=".3">
+  </path><path d="M434 440l2 -4" stroke="#ffba72" stroke-width="0.7" opacity=".3">
+  </path><path d="M362 460l2 -4" stroke="#ffba72" stroke-width="1.4" opacity=".3">
+  </path><path d="M148 355l2 -4" stroke="#ffba72" stroke-width="1.4" opacity=".3">
+  </path><path d="M353 290l2 -4" stroke="#ffba72" stroke-width="1.4" opacity=".3">
+  </path><path d="M28 308l2 -4" stroke="#ffba72" stroke-width="0.5" opacity=".3">
+  </path><path d="M403 224l2 -4" stroke="#ffba72" stroke-width="1.3" opacity=".3">
+  </path><path d="M112 448l2 -4" stroke="#ffba72" stroke-width="0.9" opacity=".3">
+  </path><path d="M604 189l2 -4" stroke="#ffba72" stroke-width="0.7" opacity=".3">
+  </path><path d="M479 250l2 -4" stroke="#ffba72" stroke-width="1.3" opacity=".3">
+  </path><path d="M315 254l2 -4" stroke="#ffba72" stroke-width="1.1" opacity=".3">
+  </path><path d="M296 209l2 -4" stroke="#ffba72" stroke-width="0.7" opacity=".3">
+  </path><path d="M576 400l2 -4" stroke="#ffba72" stroke-width="0.7" opacity=".3">
+  </path><path d="M268 127l2 -4" stroke="#ffba72" stroke-width="1.2" opacity=".3">
+  </path>
+ <rect x="1" y="1" width="638" height="498" fill="none" stroke="#553830" />
+ <path d="M22 48V22H58M582 22H618V48M22 452V478H58M582 478H618V452" fill="none" stroke="#c5814e" />
+ </g></svg>
