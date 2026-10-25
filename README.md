@@ -1,98 +1,129 @@
 <div align="center">
 
-<img src="./assets/arcane-casefile-hero.png" width="100%" alt="Original sorcerer-engineer casting orange portal energy among C++, Python, data, SQL, vision, and algorithm motifs" />
+<img src="./assets/arcane-casefile-hero.png" width="100%" alt="Original sorcerer-engineer surrounded by C++, Python, data, SQL, computer vision, and algorithm motifs" />
 
-<br />
+<h1>AMANPAL9 · THE ARCANE ENGINEER</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1100&color=F6B84C&center=true&vCenter=true&width=760&lines=AMANPAL9+%2F%2F+ARCANE+ENGINEERING+DOSSIER;C%2B%2B+%C2%B7+DATA+%C2%B7+ALGORITHMS+%C2%B7+COMPUTER+VISION;TURNING+RAW+PROBLEMS+INTO+USEFUL+SYSTEMS." alt="Animated profile introduction" />
+<p><b>C++ · DATA · ALGORITHMS · COMPUTER VISION</b><br />Turning difficult problems into clear, useful systems.</p>
 
-<br />
+<p>
+  <a href="#-the-dossier">THE DOSSIER</a> &nbsp;✦&nbsp;
+  <a href="#-active-spellwork">ACTIVE SPELLWORK</a> &nbsp;✦&nbsp;
+  <a href="#-case-files">CASE FILES</a> &nbsp;✦&nbsp;
+  <a href="#-arcane-toolkit">THE TOOLKIT</a> &nbsp;✦&nbsp;
+  <a href="#-practice-ledger">PRACTICE LEDGER</a>
+</p>
 
-[✦ DOSSIER](#-dossier) &nbsp;·&nbsp; [◈ CURRENT DIRECTIVE](#-current-directive) &nbsp;·&nbsp; [⚔ CASE FILES](#-case-files) &nbsp;·&nbsp; [⌘ TOOLKIT](#-arcane-toolkit)
+<p>
+  <a href="https://tenor.com/view/doctor-strange-portal-doctor-strange-portal-gif-6847190155362068597"><img src="https://media1.tenor.com/m/XwYbKxfoaHUAAAAC/doctor-strange-portal.gif" width="498" alt="Animated orange portal from a Doctor Strange scene, shared via Tenor" /></a>
+</p>
+
+<sub>Portal clip shared via <a href="https://tenor.com/view/doctor-strange-portal-doctor-strange-portal-gif-6847190155362068597">Tenor</a>.</sub>
 
 </div>
-
----
-
-## ✦ Dossier
-
-> **C++ developer, data explorer, and problem solver.**  
-> I work at the intersection of algorithms, data analysis, visualization, and practical tooling—finding the signal in a messy problem, then engineering a clear path through it.
-
-> **Approach:** learn deliberately, build carefully, test the edge cases, and keep the result useful.
 
 <div align="center">
 
-![Portal divider](https://capsule-render.vercel.app/api?type=rect&height=5&color=0:371313,45:F6B84C,100:5D1A84)
+![Arcane gold divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:4B1B16,45:F6B84C,100:9C4A1A)
 
 </div>
 
-## ◈ Current directive
+## ✦ The dossier
 
-| Portal status | Active branch |
-| --- | --- |
-| **Learning** | C++, DSA, Python, SQL/MySQL, and structured problem solving |
-| **Building** | Data analysis, visualizations, web scrapers, and practical dashboards |
-| **Exploring** | Computer vision, basic machine learning, and insight-driven data workflows |
-| **Practicing** | **LeetCode: 100 solved** · **Codeforces rating: 900** |
+> **C++ developer, data explorer, and problem solver.** I work across algorithms, data analysis, visualization, and practical tooling—looking for the signal in a messy problem and engineering a clear path through it.
+>
+> **My method:** learn deliberately, build carefully, check edge cases, and keep the result useful.
 
 <div align="center">
 
-![Portal divider](https://capsule-render.vercel.app/api?type=rect&height=5&color=0:5D1A84,45:F6B84C,100:371313)
+![Arcane gold divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:9C4A1A,50:F6B84C,100:4B1B16)
 
 </div>
 
-## ⚔ Case files
+## ◈ Active spellwork
 
-| Case file | Focus |
+| Portal status | Current focus |
 | --- | --- |
-| **US Accident Data Analysis** | Exploratory data analysis and visual storytelling to uncover accident patterns and insights. |
-| **Titanic / Passenger Survival Analysis** | Data cleaning, EDA, and survival-focused analysis. |
-| [**GitHub Repository Scraper & Analysis**](https://github.com/Amanpal9/github-webscraping-projeect) | Web scraping and repository-data analysis. |
-| [**Real-Time Stock Analysis Dashboard**](https://github.com/Amanpal9/Ai-us-stocks-analysis) | Market-data exploration and dashboard-oriented analysis. |
+| **Study** | C++, DSA, Python, SQL/MySQL, and structured problem solving |
+| **Build** | Data analysis, visualizations, web scraping, and practical dashboards |
+| **Explore** | Computer vision, basic machine learning, and insight-driven workflows |
+| **Practice** | LeetCode · 100 solved &nbsp;&#124;&nbsp; Codeforces · rating 900 |
+
+<div align="center">
+
+<a href="https://tenor.com/view/dr-strange-doctor-strange-magic-shield-gif-11657591296076633862"><img src="https://media1.tenor.com/m/ocgVhOtVVwYAAAAC/dr-strange-doctor-strange.gif" width="280" alt="Doctor Strange surrounded by orange spellfire, shared via Tenor" /></a>
+
+</div>
+
+## 🌀 Case files
+
+| Case file | Investigation |
+| --- | --- |
+| **01 · US Accident Data Analysis** | Exploratory analysis and visual storytelling to uncover accident patterns. |
+| **02 · Titanic / Passenger Survival Analysis** | Data cleaning, exploration, and survival-focused analysis. |
+| **03 · [GitHub Repository Scraper & Analysis](https://github.com/Amanpal9/github-webscraping-projeect)** | Web scraping and analysis of repository data. |
+| **04 · [Real-Time Stock Analysis Dashboard](https://github.com/Amanpal9/Ai-us-stocks-analysis)** | Market-data exploration presented through a dashboard. |
 
 <details>
-<summary><b>Field notes</b></summary>
+<summary><b>Field notes · How I approach a problem</b></summary>
 <br />
 
-I enjoy moving from raw data and vague requirements to decisions that are visible, reproducible, and useful—whether that means a clean C++ solution, an analytical notebook, or a small web tool.
+I like moving from raw data and vague requirements to decisions that are visible, reproducible, and useful—whether that means a clean C++ solution, an analytical notebook, or a small web tool.
 
 </details>
 
 <div align="center">
 
-![Portal divider](https://capsule-render.vercel.app/api?type=rect&height=5&color=0:371313,45:F6B84C,100:5D1A84)
+![Arcane gold divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:4B1B16,45:F6B84C,100:9C4A1A)
 
 </div>
 
 ## ⌘ Arcane toolkit
 
-| Domain | Instruments |
-| --- | --- |
-| **Languages** | C++, Python, HTML, CSS, SQL/MySQL |
-| **Data & visualisation** | Pandas, NumPy, Matplotlib, Seaborn, Tableau |
-| **Intelligent systems** | Computer Vision, basic ML, data analysis |
-| **Engineering** | DSA, web scraping, Git, GitHub |
+<p><b>Languages & foundations</b></p>
+
+![C++](https://img.shields.io/badge/C%2B%2B-Systems%20%26%20DSA-9C4A1A?style=for-the-badge&logo=cplusplus&logoColor=F6B84C)
+![Python](https://img.shields.io/badge/Python-Analysis%20%26%20Tools-4B1B16?style=for-the-badge&logo=python&logoColor=F6B84C)
+![HTML](https://img.shields.io/badge/HTML-Structure-9C4A1A?style=for-the-badge&logo=html5&logoColor=F6B84C)
+![CSS](https://img.shields.io/badge/CSS-Styles-4B1B16?style=for-the-badge&logo=css3&logoColor=F6B84C)
+![MySQL](https://img.shields.io/badge/SQL%20%2F%20MySQL-Data-9C4A1A?style=for-the-badge&logo=mysql&logoColor=F6B84C)
+![Git](https://img.shields.io/badge/Git%20%2F%20GitHub-Workflow-4B1B16?style=for-the-badge&logo=github&logoColor=F6B84C)
+
+<p><b>Data, vision & analysis</b></p>
+
+![Pandas](https://img.shields.io/badge/Pandas-Data%20wrangling-9C4A1A?style=for-the-badge&logo=pandas&logoColor=F6B84C)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20work-4B1B16?style=for-the-badge&logo=numpy&logoColor=F6B84C)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-9C4A1A?style=for-the-badge&logo=plotly&logoColor=F6B84C)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20plots-4B1B16?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboards-9C4A1A?style=for-the-badge&logo=tableau&logoColor=F6B84C)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Image%20analysis-4B1B16?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Basic%20ML-Foundations-9C4A1A?style=for-the-badge)
+![Web scraping](https://img.shields.io/badge/Web%20Scraping-Data%20collection-4B1B16?style=for-the-badge)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,mysql,git,github&theme=dark" alt="C++, Python, HTML, CSS, MySQL, Git, GitHub" />
-<br /><br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV" />
+<a href="https://tenor.com/view/dr-strange-doctor-strange-magic-shield-gif-11657591296076633862"><img src="https://media1.tenor.com/m/ocgVhOtVVwYAAAAC/dr-strange-doctor-strange.gif" width="220" alt="Looping orange sorcery effect, shared via Tenor" /></a>
 
 </div>
 
+## 🧿 Practice ledger
+
 <div align="center">
 
-![Portal divider](https://capsule-render.vercel.app/api?type=rect&height=5&color=0:5D1A84,45:F6B84C,100:371313)
+![LeetCode](https://img.shields.io/badge/LeetCode-100%20solved-F6B84C?style=for-the-badge&logo=leetcode&logoColor=17120D)
+&nbsp;
+![Codeforces](https://img.shields.io/badge/Codeforces-rating%20900-9C4A1A?style=for-the-badge&logo=codeforces&logoColor=F6B84C)
 
-### Open to learning, collaboration, and interesting problems.
+</div>
 
-[![GitHub](https://img.shields.io/badge/OPEN%20THE%20PORTAL-0B0D1A?style=for-the-badge&logo=github&logoColor=F6B84C)](https://github.com/Amanpal9)
+## ✧ Open the portal
 
-<sub>Original portal-tech visual design; a fan-inspired sorcerer aesthetic with no affiliation.</sub>
+Always open to learning, collaboration, and interesting problems.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-4B1B16?style=for-the-badge&logo=github&logoColor=F6B84C)](https://github.com/Amanpal9?tab=repositories)
+
+<sub>Original portal-tech artwork with fan-inspired sorcerer styling; not affiliated with Marvel. Portal and spell GIFs are linked from their creators on Tenor.</sub>
 
 </div>
